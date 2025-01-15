@@ -1,0 +1,6 @@
+com\example\jbdl\ewallet\WalletConfig.class
+com\example\jbdl\ewallet\Wallet.class
+com\example\jbdl\ewallet\WalletService.class
+com\example\jbdl\ewallet\WalletServiceApplication.class
+com\example\jbdl\ewallet\Wallet$WalletBuilder.class
+com\example\jbdl\ewallet\WalletRepository.class

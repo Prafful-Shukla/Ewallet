@@ -1,0 +1,8 @@
+com\example\jbdl\ewallet\UserService.class
+com\example\jbdl\ewallet\UserServiceApplication.class
+com\example\jbdl\ewallet\User$UserBuilder.class
+com\example\jbdl\ewallet\UserController.class
+com\example\jbdl\ewallet\User.class
+com\example\jbdl\ewallet\UserRepository.class
+com\example\jbdl\ewallet\UserCreateRequest.class
+com\example\jbdl\ewallet\UserConfig.class
